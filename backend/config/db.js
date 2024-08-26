@@ -2,7 +2,7 @@
 
 import mongoose from 'mongoose';
 
-const dbUrl = "mongodb+srv://satishchawali:724893@cluster0.dqjxjvx.mongodb.net/food_del_local";
+const dbUrl = "mongodb+srv://satishchawali:724893@cluster0.dqjxjvx.mongodb.net/food_del_online";
 
 export const connectDB = async () => {
     try {
